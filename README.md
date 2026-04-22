@@ -1,17 +1,55 @@
-# smart_recipe_book
+# 🍽️ Smart Recipe Book
 
-A new Flutter project.
+A modern and user-friendly mobile application built with Flutter that allows users to organize, explore, and manage cooking recipes efficiently.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Search recipes by name
+- 📂 Categorize recipes (Breakfast, Lunch, Dinner, etc.)
+- ❤️ Add recipes to favorites
+- ➕ Add new recipes with detailed information
+- 📝 View recipe details (ingredients, steps, time, difficulty)
+- 🧭 Clean and intuitive navigation between screens
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎨 UI Design
+
+The application follows a minimal and modern design approach:
+- Soft color palette
+- Card-based layout
+- Clean typography
+- Smooth user experience
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material UI Components
+
+## 📸 Screenshots
+
+### 🏠 Home Screen
+Displays featured recipes, categories, and search functionality.
+
+### 📂 Categories Screen
+Allows users to browse recipes by category.
+
+### ❤️ Favorites Screen
+Shows saved favorite recipes.
+
+### 🍝 Recipe Detail Screen
+Displays detailed recipe information including ingredients and preparation steps.
+
+### ➕ Add Recipe Screen
+Users can add new recipes using a structured form.
+
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/kevserpatci/smart-recipe-book.git
