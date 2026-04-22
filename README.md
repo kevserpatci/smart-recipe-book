@@ -1,9 +1,9 @@
-# 🍽️ Smart Recipe Book
+# Smart Recipe Book
 
 A modern and user-friendly mobile application built with Flutter that allows users to organize, explore, and manage cooking recipes efficiently.
 
 
-## 📱 Features
+## Features
 
 - 🔍 Search recipes by name
 - 📂 Categorize recipes (Breakfast, Lunch, Dinner, etc.)
@@ -14,7 +14,7 @@ A modern and user-friendly mobile application built with Flutter that allows use
 
 ---
 
-## 🎨 UI Design
+## UI Design
 
 The application follows a minimal and modern design approach:
 - Soft color palette
@@ -24,13 +24,13 @@ The application follows a minimal and modern design approach:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Flutter
 - Dart
 - Material UI Components
 
-## 📸 Screenshots
+## Screenshots
 
 ### 🏠 Home Screen
 Displays featured recipes, categories, and search functionality.
@@ -48,7 +48,7 @@ Displays detailed recipe information including ingredients and preparation steps
 Users can add new recipes using a structured form.
 
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 ```bash
