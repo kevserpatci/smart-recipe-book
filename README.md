@@ -5,12 +5,12 @@ A modern and user-friendly mobile application built with Flutter that allows use
 
 ## Features
 
-- 🔍 Search recipes by name
-- 📂 Categorize recipes (Breakfast, Lunch, Dinner, etc.)
-- ❤️ Add recipes to favorites
-- ➕ Add new recipes with detailed information
-- 📝 View recipe details (ingredients, steps, time, difficulty)
-- 🧭 Clean and intuitive navigation between screens
+-  Search recipes by name
+-  Categorize recipes (Breakfast, Lunch, Dinner, etc.)
+-  Add recipes to favorites
+-  Add new recipes with detailed information
+-  View recipe details (ingredients, steps, time, difficulty)
+-  Clean and intuitive navigation between screens
 
 ---
 
@@ -32,19 +32,19 @@ The application follows a minimal and modern design approach:
 
 ## Screenshots
 
-### 🏠 Home Screen
+### Home Screen
 Displays featured recipes, categories, and search functionality.
 
-### 📂 Categories Screen
+### Categories Screen
 Allows users to browse recipes by category.
 
-### ❤️ Favorites Screen
+### Favorites Screen
 Shows saved favorite recipes.
 
-### 🍝 Recipe Detail Screen
+### Recipe Detail Screen
 Displays detailed recipe information including ingredients and preparation steps.
 
-### ➕ Add Recipe Screen
+### Add Recipe Screen
 Users can add new recipes using a structured form.
 
 
